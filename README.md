@@ -1,5 +1,5 @@
 ## About Me
-Hey there, I'm **Chesco**, a developer who enjoys creating **clean UIs, and advanced projects**.  
+Hey there, I'm **Chesco**, a developer who enjoys creating **clean UIs and advanced projects**.  
 I mainly work with **Python, C, C++, and C#**.
 
 ---
