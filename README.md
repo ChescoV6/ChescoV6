@@ -24,5 +24,5 @@ I mainly work with **Python, C, C++, and C#**.
 
 ---
 
-## Connect with Me
+## Contact Me
 - Discord: `arch.huzz`  
