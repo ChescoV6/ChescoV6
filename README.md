@@ -6,7 +6,7 @@ I mainly work with **Python, C, C++, and C#**.
 
 ## Tech Stack
 - **Languages**: Python | C | C++ | C#  
-- **Other Skills**: Game Development, Modern UI/UX, AI Integration, Security & APIs
+- **Other Skills**: Game Development, Modern UI/UX, Cyber Security, Security & APIs
 
 ---
 
