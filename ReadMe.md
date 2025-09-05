@@ -1,7 +1,5 @@
-# 👋 Welcome to ChescoV6's GitHub
-
 ## 🚀 About Me
-Hey there! I'm **Chesco**, a developer who enjoys creating **powerful tools, clean UIs, and advanced projects**.  
+Hey there, I'm **Chesco**, a developer who enjoys creating **clean UIs, and advanced projects**.  
 I mainly work with **Python, C, C++, and C#**.
 
 ---
