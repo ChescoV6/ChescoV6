@@ -5,8 +5,12 @@ I mainly work with **Python, C, C++, and C#**.
 ---
 
 ## Tech Stack
-- **Languages**: Python | C | C++ | C#  
-- **Other Skills**: Game Development, Modern UI/UX, Cyber Security, Security & APIs
+- **Languages**: 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **Other Skills**: Game Development | Modern UI/UX | Cyber Security | APIs
 
 ---
 
@@ -17,12 +21,6 @@ I mainly work with **Python, C, C++, and C#**.
 
 ---
 
-## GitHub Stats
-![ChescoV6's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChescoV6&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChescoV6&layout=compact&theme=tokyonight)
-
----
-
 ## Contact Me
 - Discord: `arch.huzz`  
+- GitHub: [ChescoV6](https://github.com/ChescoV6)
