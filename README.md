@@ -10,7 +10,7 @@ I mainly work with **Python, C, C++, and C#**.
   ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![ASM](https://img.shields.io/badge/ASM-Assembly-6E4C13)
+  ![ASM](https://img.shields.io/badge/x86-Assembly-444444)
 - **Other Skills**: Game Development | Modern UI/UX | Cyber Security | APIs
 
 ---
