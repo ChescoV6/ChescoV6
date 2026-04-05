@@ -23,5 +23,5 @@ I mainly work with **Python, C, C++, and C#** but I code a LITTLE BIT of **x86 A
 ---
 
 ## Contact Me
-- Discord: `arch.huzz`  
+- Discord: `0x050`  
 - GitHub: [ChescoV6](https://github.com/ChescoV6)
